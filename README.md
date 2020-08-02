@@ -12,12 +12,12 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/original.jpg 
-[image2]: ./examples/image_rgb.jpg
-[image3]: ./examples/image_gaus.jpg
-[image4]: ./examples/Recovery_from_left.jpg
-[image5]: ./examples/Recovery_from_right.jpg
-[image6]: ./examples/image_flip.jpg
+[image1]: ./original.jpg 
+[image2]: ./image_rgb.jpg
+[image3]: ./image_gaus.jpg
+[image4]: ./Recovery_from_left.jpg
+[image5]: ./Recovery_from_right.jpg
+[image6]: ./image_flip.jpg
 
 
 ## Rubric Points
